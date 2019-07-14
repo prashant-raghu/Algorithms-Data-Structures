@@ -16,24 +16,24 @@
 + Interpolation Search
 + Jump Search
 ```
-	Unimodality and convex functions
-	Binary search on derivative
+
 ## Sorting    
+
     Bubble    
-    Bucket       
-    Counting    
-    HeapSort   
     Insertion  
-    Merge  
-    Pancake    
-    Pigeonhole   
-    QuickSort   
     Selection   
+    Merge   
+    QuickSort    
+    Counting    
+    Bucket      
+    HeapSort   
+    Pancake    
+    Pigeonhole  
     ShellSort  
     TimSort
-    Topological
     TreeSort
     Radix
+
 ## Greedy algorithm
 	Scheduling
 	Max contiguous subvector sum
