@@ -1,24 +1,22 @@
-# Table of Contents :sunglasses:
+# Exhaustive Table of Contents 
 ## Algorithm analysis
-* Master theorem
-* Amortized time complexity
+* Master theorem :heavy_check_mark:
+* Amortized time complexity :heavy_check_mark:
 ## Searching and Sorting
 * Binary Search :heavy_check_mark:
 * Ternary Search :heavy_check_mark:
 * Exponential Search :heavy_check_mark:
-* Linear Search :heavy_check_mark:
-* Fibonacci Search
+* Fibonacci Search :heavy_check_mark:
 * Interpolation Search :heavy_check_mark:
 * Jump Search :heavy_check_mark:
 * Insertion Sort :heavy_check_mark:
 * Selection Sort :heavy_check_mark:
 * Bubble Sort :heavy_check_mark:
-* Bucket Sort
 * Merge Sort :heavy_check_mark:
-* Heap Sort
-* Quick Sort
+* Counting Sort :heavy_check_mark:
+* Quick Sort :green_circle:
+* Heap Sort :red_circle:
 * Shell Sort
-* Counting Sort
 * Radix Sort
 ## Algorithmic Paradigms
 ### Greedy algorithm
