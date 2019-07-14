@@ -43,6 +43,9 @@
 	Huffman encoding
 
 ## Graph theory
+ * Traversals
+	 Depth first search :white_check_mark:
+	 Breadth first search :white_check_mark:
 ### Traversals
 	Depth first search white_check_mark
 	Breadth first search white_check_mark
