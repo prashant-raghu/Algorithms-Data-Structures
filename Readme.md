@@ -1,4 +1,4 @@
-# Table of Contents
+# Exhaustive Table of Contents
 ## Algorithm analysis
 	Master theorem
 	Amortized time complexity
