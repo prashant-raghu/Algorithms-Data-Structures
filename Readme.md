@@ -6,9 +6,11 @@
 	Master theorem
 	Amortized time complexity
 ## Searching/Optimization
-	```diff
-	+ Binary Search
-	```
+
+```diff
++ Binary Search
+```
+
 	Ternary Search
     Exponential Search
     Fibonacci Search
