@@ -3,6 +3,10 @@
 	Master theorem
 	Amortized time complexity
 ## Searching/Optimization
+	```diff
+	+ green
+	- red
+	```
 	Binary Search
 	Ternary Search
     Exponential Search
