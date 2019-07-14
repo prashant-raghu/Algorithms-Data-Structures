@@ -25,11 +25,10 @@
 + Insertion  
 + Selection   
 + Merge   
-+ QuickSort [HERE](https://www.youtube.com/watch?v=MZaf_9IZCrc)    
++ QuickSort     
 + Counting    
-+ HeapSort   
 + Radix
-
+- HeapSort   
 - Pancake    
 - Pigeonhole  
 - ShellSort  
@@ -77,6 +76,23 @@
 	Diameter and centroid
 	K'th shortest path
 	Shortest cycle
+
+## Trees
+	Binary Tree
+	Binary Search Tree
+	AVL Trees
+	Red-Black Trees
+	Treap
+	Splay Tree
+	N-ary Tree
+	Trie
+	Suffix Tree
+	Huffman Tree
+	Heap
+	B+, B- Tree
+	Merkle Tree
+	Segment Tree
+	Fenwick Tree (Binary Indexed Tree)
 ## Dynamic programming
 	Knapsack
 	Coin change
