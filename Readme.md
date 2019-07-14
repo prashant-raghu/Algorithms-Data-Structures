@@ -7,7 +7,7 @@
 	Amortized time complexity
 ## Searching/Optimization
 	```diff
-	+Binary Search
+	+ Binary Search
 	```
 	Ternary Search
     Exponential Search
