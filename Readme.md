@@ -27,15 +27,15 @@
 + Merge   
 + QuickSort    
 + Counting    
-+ Bucket      
 + HeapSort   
++ Radix
 
 - Pancake    
 - Pigeonhole  
 - ShellSort  
 - TimSort
 - TreeSort
-- Radix
+- Bucket      
 ```
 ## Greedy algorithm
 	Scheduling
