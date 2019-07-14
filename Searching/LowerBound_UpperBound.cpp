@@ -15,16 +15,25 @@ void test(vi sorted, vi totest){
     cout<<x<<" ";
     cout<<endl;
 }
-int BinarySearch(vi v,ll k){
-    int l = 0,r = sz(v) - 1;
-    while(l<=r){
-        ll m = l+r;
-        m /= 2;
-        if(v[m] == k)return m;
-        else if(v[m] < k)l = m;
-        else if(v[m] > k)r = m;
+int LowerBound(vi v,ll k){
+    int m,l = 0,r = sz(v);
+    while(l<r){
+         m = l + (l+r)/2;
+         if(v[m] < k)l = m + 1;
+         else r = m;
     }
-    return -1;
+    return m;
+}
+int UpperBound(vi v,ll k){
+    int m,l = 0,r = sz(v);
+    while(l<r){
+        m = (l + r)/2;
+        if (k >= v[m])
+            l = m + 1;
+        else
+            r = m;
+    }
+    return m;
 }
 int main(){
 	cin.sync_with_stdio(0); cin.tie(0); //Comment while performing interactive IO
@@ -35,5 +44,6 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>v[i];
     }
-    cout<<BinarySearch(v,k)<<endl;
+    cout<<LowerBound(v,k)<<endl;
+    cout<<UpperBound(v,k)<<endl;
 }

@@ -2,6 +2,31 @@
 ## Algorithm analysis
 	Master theorem
 	Amortized time complexity
+## Searching/Optimization
+	Binary Search
+	Ternary Search
+    Exponential Search
+    Fibonacci Search
+    Interpolation Search
+    Jump Search
+	Unimodality and convex functions
+	Binary search on derivative
+## Sorting    
+    Bubble    
+    Bucket       
+    Counting    
+    HeapSort   
+    Insertion  
+    Merge  
+    Pancake    
+    Pigeonhole   
+    QuickSort   
+    Selection   
+    ShellSort  
+    TimSort
+    Topological
+    TreeSort
+    Radix
 ## Greedy algorithm
 	Scheduling
 	Max contiguous subvector sum
@@ -95,15 +120,6 @@
 	Bipartite games without repetition
 	General games without repetition
 	Alpha-beta pruning
-## Searching/Optimization
-	Binary Search
-	Ternary Search
-    Exponential Search
-    Fibonacci Search
-    Interpolation Search
-    Jump Search
-	Unimodality and convex functions
-	Binary search on derivative
 ## Numerical methods
 	Numeric integration
 	Newton's method
@@ -112,22 +128,6 @@
 ## Matrices
 	Gaussian elimination
 	Exponentiation by squaring
-## Sorting    
-    Bubble    
-    Bucket       
-    Counting    
-    HeapSort   
-    Insertion  
-    Merge  
-    Pancake    
-    Pigeonhole   
-    QuickSort   
-    Selection   
-    ShellSort  
-    TimSort
-    Topological
-    TreeSort
-    Radix
 ## Geometry
 	Coordinates and vectors
 	* Cross product
