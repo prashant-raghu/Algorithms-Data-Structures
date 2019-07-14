@@ -1,6 +1,3 @@
-```diff
-+ this text is highlighted in green
-```
 # Exhaustive Table of Contents
 ## Algorithm analysis
 	Master theorem
@@ -9,13 +6,12 @@
 
 ```diff
 + Binary Search
++ Ternary Search
++ Exponential Search
++ Fibonacci Search
++ Interpolation Search
++ Jump Search
 ```
-
-	Ternary Search
-    Exponential Search
-    Fibonacci Search
-    Interpolation Search
-    Jump Search
 	Unimodality and convex functions
 	Binary search on derivative
 ## Sorting    
