@@ -20,25 +20,24 @@ void test(vi sorted, vi totest){
     cout<<endl;
 }
 
-void Merge(vi &v, int l,int m,int r){
-    int i1 = l,i2 = m+1;
-    for(int i=l;i<=r;i++){
-        if(v[i1] < v[i2]){
-            v[i] = v[i1];
-            i1++;
-        }
-        else {
-            v[i] = v[i2];
-            i2++;    
-        }
-    }
+int partition(vi &v, int l, int r){
+	int pivot = v[r];
+	int i = l-1;
+	for(int j=l;j<r;j++){
+		if(v[j]<=pivot)
+            swap(v[++i],v[j]);
+	}
+    i++;
+	swap(v[i],v[r]);
+	return i;
 }
-void MergeSort(vi &v,int l,int r){
+
+void QuickSort(vi &v,int l,int r){
     if(l>=r)return;
-    int m = (l+r)/2;
-    MergeSort(v,l,m);
-    MergeSort(v,m+1,r);
-    Merge(v,l,m,r);
+	int pivot = partition(v,l,r);
+	QuickSort(v, l, pivot-1);
+	QuickSort(v, pivot+1, r);
+	
 }
 int main(){
 	cin.sync_with_stdio(0); cin.tie(0); //Comment while performing interactive IO
@@ -49,7 +48,7 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>v[i];
     }
-    MergeSort(v,0,sz(v) - 1);
+    QuickSort(v,0,sz(v) - 1);
     vi s = v;
     sort(s.begin(),s.end());
     test(s,v);
