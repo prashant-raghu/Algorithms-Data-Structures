@@ -1,7 +1,11 @@
 # Exhaustive Table of Contents
 ## Algorithm analysis
+
+```diff
 	Master theorem
 	Amortized time complexity
+```
+
 ## Searching/Optimization
 
 ```diff
