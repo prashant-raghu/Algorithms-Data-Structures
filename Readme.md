@@ -2,8 +2,8 @@
 ## Algorithm analysis
 
 ```diff
-	Master theorem
-	Amortized time complexity
++ Master theorem
++ Amortized time complexity
 ```
 
 ## Searching/Optimization
