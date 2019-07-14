@@ -41,41 +41,59 @@
 	Max contiguous subvector sum
 	Invariants
 	Huffman encoding
+
 ## Graph theory
-	Dynamic graphs (extra book-keeping)
-	Breadth first search
-	Depth first search
-	* Normal trees / DFS trees
-	Dijkstra's algorithm
-	MST: Prim's algorithm
-	Bellman-Ford
-	Konig's theorem and vertex cover
+	### Traversals
+	Depth first search white_check_mark
+	Breadth first search white_check_mark
+	### Flood-Fill
+	Using DFS white_check_mark
+	Forest-Fire using BFS white_check_mark
+	Using Scan-Line algorithm
+	### Topological Sort
+	Using modified DFS/BSF white_check_mark
+	Kahn algorithm white_check_mark
+	Articulation points and bridges (Undiredted graphs)
+	Strongly connected components (Directed graphs)
+	### Vertex coloring
+	Bipartite graphs (=> trees)
+	3^n (special case of set cover)
+	### Edge coloring
+	Trees
+	Union-Find Disjoint Sets white_check_mark
+	### Minimum spanning tree
+	Kruskal algorithm
+	Prim algorithm
+	Boruvka algorithm
+	Steiner Tree
+	### Shortest paths
+	Bellman Ford algorithm white_check_mark
+	SPFA (Shortest Path Faster Algorithm)
+	Dijkstra algorithm white_check_mark
+	A* algorithm
+	### Floyd-Warshall algorithm white_check_mark
+	Johnson algorithm
+	Flow networks
+	Ford Fulkerson method
+	Augmenting paths
+	Edmonds-Karp
 	Min-cost max flow
+	Euler cycles
+	Shortest cycle
+	Bipartite matching
+	Konig's theorem and vertex cover
 	Lovasz toggle
 	Matrix tree theorem
 	Maximal matching, general graphs
 	Hopcroft-Karp
 	Hall's marriage theorem
 	Graphical sequences
-	Floyd-Warshall
-	Euler cycles
-	Flow networks
-	* Augmenting paths
-	* Edmonds-Karp
-	Bipartite matching
 	Min. path cover
-	Topological sorting
-	Strongly connected components
 	2-SAT
 	Cut vertices, cut-edges and biconnected components
-	Edge coloring
-	* Trees
-	Vertex coloring
-	* Bipartite graphs (=> trees)
-	* 3^n (special case of set cover)
 	Diameter and centroid
 	K'th shortest path
-	Shortest cycle
+	Dynamic graphs (extra book-keeping)
 
 ## Trees
 	Binary Tree
