@@ -19,21 +19,24 @@
 
 ## Sorting    
 
-    Bubble    
-    Insertion  
-    Selection   
-    Merge   
-    QuickSort    
-    Counting    
-    Bucket      
-    HeapSort   
-    Pancake    
-    Pigeonhole  
-    ShellSort  
-    TimSort
-    TreeSort
-    Radix
+```diff
 
++ Bubble    
++ Insertion  
++ Selection   
++ Merge   
++ QuickSort    
++ Counting    
++ Bucket      
++ HeapSort   
+
+- Pancake    
+- Pigeonhole  
+- ShellSort  
+- TimSort
+- TreeSort
+- Radix
+```
 ## Greedy algorithm
 	Scheduling
 	Max contiguous subvector sum
