@@ -43,22 +43,22 @@
 	Huffman encoding
 
 ## Graph theory
-	### Traversals
+### Traversals
 	Depth first search white_check_mark
 	Breadth first search white_check_mark
-	### Flood-Fill
+### Flood-Fill
 	Using DFS white_check_mark
 	Forest-Fire using BFS white_check_mark
 	Using Scan-Line algorithm
-	### Topological Sort
+### Topological Sort
 	Using modified DFS/BSF white_check_mark
 	Kahn algorithm white_check_mark
 	Articulation points and bridges (Undiredted graphs)
 	Strongly connected components (Directed graphs)
-	### Vertex coloring
+### Vertex coloring
 	Bipartite graphs (=> trees)
 	3^n (special case of set cover)
-	### Edge coloring
+### Edge coloring
 	Trees
 	Union-Find Disjoint Sets white_check_mark
 	### Minimum spanning tree
@@ -66,14 +66,14 @@
 	Prim algorithm
 	Boruvka algorithm
 	Steiner Tree
-	### Shortest paths
+### Shortest paths
 	Bellman Ford algorithm white_check_mark
 	SPFA (Shortest Path Faster Algorithm)
 	Dijkstra algorithm white_check_mark
 	A* algorithm
-	### Floyd-Warshall algorithm white_check_mark
+	Floyd-Warshall algorithm white_check_mark
 	Johnson algorithm
-	Flow networks
+### Flow networks
 	Ford Fulkerson method
 	Augmenting paths
 	Edmonds-Karp
