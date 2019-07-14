@@ -15,16 +15,18 @@ void test(vi sorted, vi totest){
     cout<<x<<" ";
     cout<<endl;
 }
-int BinarySearch(vi v,ll k){
+int TernarySearch(vi v,ll k){
     int l = 0,r = sz(v) - 1;
     while(l<=r){
-        ll m = l+r;
-        m /= 2;
-        //m--;// Enable lower Bound
-        //m++;// Enable upper Bound
-        if(v[m] == k)return m;
-        else if(v[m] < k)l = m;
-        else if(v[m] > k)r = m;
+        ll m1 = l + (r-l)/3;
+        ll m2 = l - (r-l)/3;
+        //m--; Enable lower Bound
+        //m++; Enable upper Bound
+        if(v[m1] == k)return m1;
+        else if(v[m2] == k)return m2;
+        else if(v[m1] > k)r = m1;
+        else if(v[m2] > k)r = m2;
+        else if(v[m2] < k)l = m2;
     }
     return -1;
 }
@@ -38,5 +40,5 @@ int main() {
     for(int i=0;i<n;i++){
         cin>>v[i];
     }
-    cout<<BinarySearch(v,k);
+    cout<<TernarySearch(v,k);
 }
