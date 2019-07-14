@@ -1,13 +1,14 @@
 ```diff
 + this text is highlighted in green
-- this text is highlighted in red
 ```
 # Exhaustive Table of Contents
 ## Algorithm analysis
 	Master theorem
 	Amortized time complexity
 ## Searching/Optimization
-	Binary Search
+	```diff
+	+Binary Search
+	```
 	Ternary Search
     Exponential Search
     Fibonacci Search
