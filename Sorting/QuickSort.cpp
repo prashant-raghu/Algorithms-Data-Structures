@@ -24,11 +24,9 @@ int partition(vi &v, int l, int r){
 	int pivot = v[r];
 	int i = l-1;
 	for(int j=l;j<r;j++){
-		if(v[j]<=pivot)
-            swap(v[++i],v[j]);
+		if(v[j]<=pivot)swap(v[++i],v[j]);
 	}
-    i++;
-	swap(v[i],v[r]);
+	swap(v[++i],v[r]);
 	return i;
 }
 

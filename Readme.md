@@ -25,7 +25,7 @@
 + Insertion  
 + Selection   
 + Merge   
-+ QuickSort    
++ QuickSort [HERE](https://www.youtube.com/watch?v=MZaf_9IZCrc)    
 + Counting    
 + HeapSort   
 + Radix
