@@ -14,50 +14,10 @@
 * Bubble Sort :heavy_check_mark:
 * Merge Sort :heavy_check_mark:
 * Counting Sort :heavy_check_mark:
-* Quick Sort :green_circle:
+* Quick Sort :heavy_check_mark:
 * Heap Sort :red_circle:
-* Shell Sort
-* Radix Sort
-## Algorithmic Paradigms
-### Greedy algorithm
-* Scheduling
-* Max contiguous subvector sum
-* Invariants
-* Huffman encoding
-### Dynamic programming
-* Knapsack
-* Coin change
-* Longest common subsequence
-* Longest increasing subsequence
-* Number of paths in a dag
-* Shortest path in a dag
-* Dynprog over intervals
-* Dynprog over subsets
-* Dynprog over probabilities
-* Dynprog over trees
-* 3^n set cover
-* Divide and conquer
-* Knuth optimization
-* Convex hull optimizations
-* RMQ (sparse table a.k.a 2^k-jumps)
-* Bitonic cycle
-* Log partitioning (loop over most restricted)
-## Trees
-* Binary Tree
-* Binary Search Tree
-* AVL Trees
-* Red-Black Trees
-* Treap
-* Splay Tree
-* N-ary Tree
-* Trie
-* Suffix Tree
-* Huffman Tree
-* Heap
-* B+, B- Tree
-* Merkle Tree
-* Segment Tree 
-* Fenwick Tree (Binary Indexed Tree)
+* Shell Sort :red_circle:
+* Radix Sort :red_circle:
 ## Graph theory
 * Traversals
 	* Depth first search :heavy_check_mark:
@@ -110,6 +70,46 @@
 * Diameter and centroid
 * K'th shortest path
 * Dynamic graphs (extra book-keeping)
+## Trees
+* Binary Tree
+* Binary Search Tree
+* AVL Trees
+* Red-Black Trees
+* Treap
+* Splay Tree
+* N-ary Tree
+* Trie
+* Suffix Tree
+* Huffman Tree
+* Heap
+* B+, B- Tree
+* Merkle Tree
+* Segment Tree 
+* Fenwick Tree (Binary Indexed Tree)
+## Algorithmic Paradigms
+### Greedy algorithm
+* Scheduling
+* Max contiguous subvector sum
+* Invariants
+* Huffman encoding
+### Dynamic programming
+* Knapsack
+* Coin change
+* Longest common subsequence
+* Longest increasing subsequence
+* Number of paths in a dag
+* Shortest path in a dag
+* Dynprog over intervals
+* Dynprog over subsets
+* Dynprog over probabilities
+* Dynprog over trees
+* 3^n set cover
+* Divide and conquer
+* Knuth optimization
+* Convex hull optimizations
+* RMQ (sparse table a.k.a 2^k-jumps)
+* Bitonic cycle
+* Log partitioning (loop over most restricted)
 ## Math
 ### Combinatorics
 * Computation of binomial coefficients
