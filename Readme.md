@@ -2,22 +2,6 @@
 ## Algorithm analysis
 * Master theorem :heavy_check_mark:
 * Amortized time complexity :heavy_check_mark:
-## Searching and Sorting
-* Binary Search :heavy_check_mark:
-* Ternary Search :heavy_check_mark:
-* Exponential Search :heavy_check_mark:
-* Fibonacci Search :heavy_check_mark:
-* Interpolation Search :heavy_check_mark:
-* Jump Search :heavy_check_mark:
-* Insertion Sort :heavy_check_mark:
-* Selection Sort :heavy_check_mark:
-* Bubble Sort :heavy_check_mark:
-* Merge Sort :heavy_check_mark:
-* Counting Sort :heavy_check_mark:
-* Quick Sort :heavy_check_mark:
-* Heap Sort :red_circle:
-* Shell Sort :red_circle:
-* Radix Sort :red_circle:
 ## Graph theory
 * Traversals
 	* Depth first search :heavy_check_mark:
@@ -86,6 +70,22 @@
 * Merkle Tree
 * Segment Tree 
 * Fenwick Tree (Binary Indexed Tree)
+## Searching and Sorting
+* Binary Search :heavy_check_mark:
+* Ternary Search :heavy_check_mark:
+* Exponential Search :heavy_check_mark:
+* Fibonacci Search :heavy_check_mark:
+* Interpolation Search :heavy_check_mark:
+* Jump Search :heavy_check_mark:
+* Insertion Sort :heavy_check_mark:
+* Selection Sort :heavy_check_mark:
+* Bubble Sort :heavy_check_mark:
+* Merge Sort :heavy_check_mark:
+* Counting Sort :heavy_check_mark:
+* Quick Sort :heavy_check_mark:
+* Heap Sort :red_circle:
+* Shell Sort :red_circle:
+* Radix Sort :red_circle:
 ## Algorithmic Paradigms
 ### Greedy algorithm
 * Scheduling
