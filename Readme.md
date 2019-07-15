@@ -12,8 +12,8 @@
 	* Using Scan-Line algorithm
 * Topological Sort
 	* Using modified DFS/BSF :heavy_check_mark:
-	* Kahn algorithm :red_circle:
-* Articulation points and bridges (Undiredted graphs)
+	* Kahn algorithm :heavy_check_mark:
+* Articulation points and bridges (Undiredted graphs) :heavy_check_mark:
 * Strongly connected components (Directed graphs)
 * Vertex coloring
 	* Bipartite graphs (=> trees)

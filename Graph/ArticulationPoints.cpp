@@ -71,23 +71,11 @@ int main(){
 	// for(int i=0;i<v;i++)
 	// cout<<dist[i]<<" ";
 }
-// Test Case From COmputerphile Dijkstra Video
-// 13 18
-// 0 1 7
-// 0 2 2
-// 0 3 3
-// 3 12 2
-// 12 10 4
-// 12 9 4
-// 10 9 6
-// 11 9 4
-// 11 10 4
-// 11 5 5
-// 5 7 2
-// 7 8 2
-// 6 8 3
-// 6 4 5
-// 1 4 4
-// 4 2 4
-// 1 2 3
-// 8 2 1
+// Test Case From CP3 Articulation points
+// 6 6
+// 0 1 1
+// 1 2 1
+// 3 1 1
+// 1 4 1
+// 4 5 1
+// 1 5 1
