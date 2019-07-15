@@ -7,12 +7,12 @@
 	* Depth first search :heavy_check_mark:
 	* Breadth first search :heavy_check_mark:
 * Flood-Fill
-	* Using DFS :heavy_check_mark:
-	* Forest-Fire using BFS :heavy_check_mark:
+	* Using DFS 
+	* Forest-Fire using BFS 
 	* Using Scan-Line algorithm
 * Topological Sort
 	* Using modified DFS/BSF :heavy_check_mark:
-	* Kahn algorithm :heavy_check_mark:
+	* Kahn algorithm :red_circle:
 * Articulation points and bridges (Undiredted graphs)
 * Strongly connected components (Directed graphs)
 * Vertex coloring
