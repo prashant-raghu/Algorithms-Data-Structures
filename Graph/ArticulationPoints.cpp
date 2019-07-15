@@ -29,7 +29,7 @@ void dfs(int v, int p = -1) {
     int children=0;
     for (int to : adj[v]) {
         if (to == p) continue;
-        if (visited[to]) {
+        if (visited[to]){
             low[v] = min(low[v], tin[to]);
         } else {
             dfs(to, v);
@@ -66,7 +66,7 @@ int main(){
 		adj[b].push_back(a);  //comment if directed graph
 	}
 	find_cutpoints();
-	dfs(0);
+	//dfs(0);
 	for(auto x:s)cout<<x<<" ";
 	// for(int i=0;i<v;i++)
 	// cout<<dist[i]<<" ";
