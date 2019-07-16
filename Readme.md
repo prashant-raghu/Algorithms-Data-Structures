@@ -13,9 +13,9 @@
 * Topological Sort
 	* Using modified DFS/BSF :heavy_check_mark:
 	* Kahn algorithm :heavy_check_mark:
-* Articulation points and bridges (Undiredted graphs) :heavy_check_mark:
-* Strongly connected components (Directed graphs)
-* Union-Find Disjoint Sets :heavy_check_mark:
+* Connected components, bridges, articulations points
+	* Articulation points and bridges (Undiredted graphs) :heavy_check_mark:
+	* Strongly connected components (Directed graphs)
 * Minimum spanning tree
 	* Kruskal algorithm :heavy_check_mark:
 	* Prim algorithm :heavy_check_mark:
@@ -28,33 +28,52 @@
 	* A* algorithm :red_circle:
 	* Floyd-Warshall algorithm :heavy_check_mark:
 	* Johnson algorithm :red_circle:
+* Cycles
+	* Checking a graph for acyclicity and finding a cycle in O(M)
+	* Finding a Negative Cycle in the Graph
+	* Eulerian Path
 * Flow networks
-	* Ford Fulkerson method
-	* Augmenting paths
-	* Edmonds-Karp
+	* Ford-Fulkerson and Edmonds-Karp
+	* Push-relabel algorithm
+	* Dinic's algorithm
+	* MPM algorithm
+	* Flows with demands
+	* Minimum-cost flow
+	* Assignment problem. Solution using min-cost-flow in O (N^5)
 * Vertex coloring
 	* Bipartite graphs (=> trees)
 	* 3^n (special case of set cover)
+* Lowest common ancestor
+	* Lowest Common Ancestor
+	* Lowest Common Ancestor - Binary Lifting
+	* Lowest Common Ancestor - Farach-Colton and Bender algorithm
+	* Solve RMQ by finding LCA
+	* Lowest Common Ancestor - Tarjan's off-line algorithm
 * Edge coloring
 	* Trees
-* Min-cost max flow
-* Euler cycles
-* Shortest cycle
-* Bipartite matching
-* Konig's theorem and vertex cover
-* Lovasz toggle
-* Matrix tree theorem
-* Maximal matching, general graphs
-* Hopcroft-Karp
-* Hall's marriage theorem
-* Graphical sequences
-* Min. path cover
-* 2-SAT
-* Cut vertices, cut-edges and biconnected components
-* Diameter and centroid
-* K'th shortest path
-* Dynamic graphs (extra book-keeping)
+* Matchings and related problems
+	* Bipartite Graph Check
+* Miscellaneous
+	* Edge connectivity / Vertex connectivity
+	* Tree painting
+	* 2-SAT
+	* Heavy-light decomposition
+	* Euler cycles
+	* Shortest cycle
+	* Konig's theorem and vertex cover
+	* Lovasz toggle
+	* Matrix tree theorem
+	* Maximal matching, general graphs
+	* Hopcroft-Karp
+	* Hall's marriage theorem
+	* Graphical sequences
+	* Min. path cover
+	* Cut vertices, cut-edges and biconnected components
+	* Diameter and centroid
+	* K'th shortest path
+	* Dynamic graphs (extra book-keeping)
 ## Trees
+* Union-Find Disjoint Sets :heavy_check_mark:
 * Binary Tree
 * Binary Search Tree
 * AVL Trees
