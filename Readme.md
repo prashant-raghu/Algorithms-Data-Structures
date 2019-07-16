@@ -25,8 +25,8 @@
 	* Floyd-Warshall algorithm :heavy_check_mark:
 	* Johnson algorithm :red_circle:
 * Cycles
-	* Checking a graph for acyclicity and finding a cycle in O(M)
-	* Finding a Negative Cycle in the Graph
+	* Checking a graph for acyclicity and finding a cycle in O(M) :heavy_check_mark:
+	* Finding a Negative Cycle in the Graph :heavy_check_mark:
 	* Eulerian Path
 * Flow networks
 	* Ford-Fulkerson and Edmonds-Karp
