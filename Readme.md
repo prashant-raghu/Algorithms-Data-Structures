@@ -6,10 +6,6 @@
 * Traversals
 	* Depth first search :heavy_check_mark:
 	* Breadth first search :heavy_check_mark:
-* Flood-Fill
-	* Using DFS 
-	* Forest-Fire using BFS 
-	* Using Scan-Line algorithm
 * Topological Sort
 	* Using modified DFS/BSF :heavy_check_mark:
 	* Kahn algorithm :heavy_check_mark:
@@ -23,7 +19,7 @@
 	* Steiner Tree :red_circle:
 * Shortest paths
 	* Bellman Ford algorithm :heavy_check_mark:
-	* SPFA (Shortest Path Faster Algorithm)
+	* SPFA (Shortest Path Faster Algorithm) :red_circle:
 	* Dijkstra  algorithm :heavy_check_mark:
 	* A* algorithm :red_circle:
 	* Floyd-Warshall algorithm :heavy_check_mark:
@@ -40,19 +36,23 @@
 	* Flows with demands
 	* Minimum-cost flow
 	* Assignment problem. Solution using min-cost-flow in O (N^5)
-* Vertex coloring
-	* Bipartite graphs (=> trees)
-	* 3^n (special case of set cover)
+* Flood-Fill
+	* Using DFS 
+	* Forest-Fire using BFS 
+	* Using Scan-Line algorithm
 * Lowest common ancestor
 	* Lowest Common Ancestor
 	* Lowest Common Ancestor - Binary Lifting
 	* Lowest Common Ancestor - Farach-Colton and Bender algorithm
 	* Solve RMQ by finding LCA
 	* Lowest Common Ancestor - Tarjan's off-line algorithm
-* Edge coloring
-	* Trees
 * Matchings and related problems
 	* Bipartite Graph Check
+* Vertex coloring
+	* Bipartite graphs (=> trees)
+	* 3^n (special case of set cover)
+* Edge coloring
+	* Trees
 * Miscellaneous
 	* Edge connectivity / Vertex connectivity
 	* Tree painting
