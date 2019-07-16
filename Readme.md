@@ -41,11 +41,11 @@
 	* Forest-Fire using BFS 
 	* Using Scan-Line algorithm
 * Lowest common ancestor
-	* Lowest Common Ancestor
-	* Lowest Common Ancestor - Binary Lifting
-	* Lowest Common Ancestor - Farach-Colton and Bender algorithm
-	* Solve RMQ by finding LCA
-	* Lowest Common Ancestor - Tarjan's off-line algorithm
+	* Lowest Common Ancestor :heavy_check_mark:
+	* Lowest Common Ancestor - Binary Lifting :red_circle:
+	* Lowest Common Ancestor - Farach-Colton and Bender algorithm :red_circle:
+	* Solve RMQ by finding LCA :red_circle:
+	* Lowest Common Ancestor - Tarjan's off-line algorithm :red_circle:
 * Matchings and related problems
 	* Bipartite Graph Check
 * Vertex coloring
