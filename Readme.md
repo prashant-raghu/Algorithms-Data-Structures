@@ -15,28 +15,28 @@
 	* Kahn algorithm :heavy_check_mark:
 * Articulation points and bridges (Undiredted graphs) :heavy_check_mark:
 * Strongly connected components (Directed graphs)
+* Union-Find Disjoint Sets :heavy_check_mark:
+* Minimum spanning tree
+	* Kruskal algorithm :heavy_check_mark:
+	* Prim algorithm :heavy_check_mark:
+	* Boruvka algorithm :red_circle:
+	* Steiner Tree :red_circle:
+* Shortest paths
+	* Bellman Ford algorithm :heavy_check_mark:
+	* SPFA (Shortest Path Faster Algorithm)
+	* Dijkstra  algorithm :heavy_check_mark:
+	* A* algorithm :red_circle:
+	* Floyd-Warshall algorithm :heavy_check_mark:
+	* Johnson algorithm :red_circle:
+* Flow networks
+	* Ford Fulkerson method
+	* Augmenting paths
+	* Edmonds-Karp
 * Vertex coloring
 	* Bipartite graphs (=> trees)
 	* 3^n (special case of set cover)
 * Edge coloring
 	* Trees
-* Union-Find Disjoint Sets :heavy_check_mark:
-* Minimum spanning tree
-	* Kruskal algorithm
-	* Prim algorithm
-	* Boruvka algorithm
-	* Steiner Tree
-* Shortest paths
-	* Bellman Ford algorithm :heavy_check_mark:
-	* SPFA (Shortest Path Faster Algorithm)
-	* Dijkstra  algorithm :heavy_check_mark:
-	* A* algorithm
-	* Floyd-Warshall algorithm :heavy_check_mark:
-	* Johnson algorithm
-* Flow networks
-	* Ford Fulkerson method
-	* Augmenting paths
-	* Edmonds-Karp
 * Min-cost max flow
 * Euler cycles
 * Shortest cycle
