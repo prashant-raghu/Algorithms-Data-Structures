@@ -71,8 +71,9 @@ int main(){
 	dijkstra(0,d,p);
 	// for(auto x:dist)cout<<x<<" ";
 	//cout<<v;
-	// for(int i=0;i<v;i++)
-	// cout<<d[i]<<" ";
+	for(int i=0;i<v;i++)
+	cout<<d[i]<<" ";
+    cout<<endl;
 	vector<int> path = restore_path(0,5,p);
 }
 // Test Case From COmputerphile Dijkstra Video
