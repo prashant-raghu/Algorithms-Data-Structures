@@ -27,7 +27,7 @@
 * Cycles
 	* Checking a graph for acyclicity and finding a cycle in O(M) :heavy_check_mark:
 	* Finding a Negative Cycle in the Graph :heavy_check_mark:
-	* Eulerian Path
+	* Eulerian Path :heavy_check_mark:
 * Flow networks
 	* Ford-Fulkerson and Edmonds-Karp
 	* Push-relabel algorithm
