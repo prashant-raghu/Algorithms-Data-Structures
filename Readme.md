@@ -41,7 +41,7 @@
 	* Forest-Fire using BFS 
 	* Using Scan-Line algorithm
 * Lowest common ancestor
-	* Lowest Common Ancestor :heavy_check_mark:
+	* Lowest Common Ancestor - Euler Path (O(n) + O(q*logn)) :heavy_check_mark:
 	* Lowest Common Ancestor - Binary Lifting :red_circle:
 	* Lowest Common Ancestor - Farach-Colton and Bender algorithm :red_circle:
 	* Solve RMQ by finding LCA :red_circle:
