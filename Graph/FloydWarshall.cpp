@@ -15,7 +15,7 @@ vector<int>dist(200001,0);          // distance of the index from the source
 const int INF = 10000000;
 vector<vector<int>> graph;
 //a cubic algorithm in which for each node we select all possible pairs of node and set
-// distance [i][j] as min(already computed distance for [i][j] or distance from i to k plus k to i )
+// distance [i][j] as min(already computed distance for [i][j] or distance from i to k plus k to j )
 
 void FloydWarshall(){
     for (int k = 0; k < n; ++k) {
