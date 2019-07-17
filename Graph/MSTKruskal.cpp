@@ -67,7 +67,7 @@ int main() {
         }
     }
     ll sum = 0;
-    for(auto x:result)cout<<(x.u)<<" "<<(x.v)<<" "<<x.weight<<endl;
-    // for(auto x:result)sum += x.weight;
-    // cout<<sum<<endl;
+   // for(auto x:result)cout<<(x.u)<<" "<<(x.v)<<" "<<x.weight<<endl;
+     for(auto x:result)sum += x.weight;
+     cout<<sum<<endl;
 }

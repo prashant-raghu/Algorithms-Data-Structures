@@ -35,7 +35,7 @@ bool dfs(int v) {
     color[v] = 2;
     return false;
 }
-void find_cycle() {
+void find_cycle_with_path() {
     color.assign(n, 0);
     parent.assign(n, -1);
     cycle_start = -1;
@@ -60,6 +60,20 @@ void find_cycle() {
         cout << endl;
     }
 }
+bool ret = false;
+void find_cycle(int cur) //dfs //run for each node and observe value of ret//
+{
+	vis[cur] = 1;
+    for(auto i:graph[cur])
+	{   
+        if(vis[i.first] == 1)ret = true;
+        if(vis[i.first] == 0)
+		{
+        	find_cycle(i.first);
+		}
+	}
+    vis[cur] = 2;
+}
 int main(){
 	cin.sync_with_stdio(0); cin.tie(0); //Comment while performing interactive IO
 	cin.exceptions(cin.failbit); // Logical error on i/o operation
@@ -73,7 +87,7 @@ int main(){
 		adj[a].push_back(b);
 		//adj[b].push_back(a);  //comment if directed graph
 	}
-	find_cycle();
+	find_cycle_with_path();
 }
 // Test Case From COmputerphile Dijkstra Video
 // 13 18
