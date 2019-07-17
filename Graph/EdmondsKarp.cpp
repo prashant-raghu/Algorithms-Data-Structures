@@ -28,7 +28,7 @@ int bfs(int s, int t, vector<int>& parent) {
                 parent[next] = cur;
                 int new_flow = min(flow, capacity[cur][next]);
                 if (next == t)
-                    return new_flow;
+                     return new_flow;
                 q.push({next, new_flow});
             }
         }
