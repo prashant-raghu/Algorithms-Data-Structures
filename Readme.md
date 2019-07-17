@@ -37,7 +37,7 @@
 	* Minimum-cost flow
 	* Assignment problem. Solution using min-cost-flow in O (N^5)
 * Flood-Fill
-	* Using DFS 
+	* Using DFS :heavy_check_mark:
 	* Forest-Fire using BFS 
 	* Using Scan-Line algorithm
 * Lowest common ancestor
