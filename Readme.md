@@ -29,7 +29,7 @@
 	* Finding a Negative Cycle in the Graph :heavy_check_mark:
 	* Eulerian Path :heavy_check_mark:
 * Flow networks
-	* Ford-Fulkerson and Edmonds-Karp
+	* Ford-Fulkerson and Edmonds-Karp :heavy_check_mark:
 	* Push-relabel algorithm
 	* Dinic's algorithm
 	* MPM algorithm
