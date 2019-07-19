@@ -6,7 +6,7 @@
 
 ### Fundamental
 * Minimum Stack :heavy_check_mark:
-* Minimum Queue
+* Minimum Queue :heavy_check_mark:
 * Sparse Table
 
 ### Trees
