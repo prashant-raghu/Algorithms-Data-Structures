@@ -2,7 +2,33 @@
 ## Algorithm analysis
 * Master theorem :heavy_check_mark:
 * Amortized time complexity :heavy_check_mark:
-## Graph theory
+## Data Structures
+
+### Fundamental
+* Minimum Stack 
+* Minimum Queue
+* Sparse Table
+
+### Trees
+* Union-Find Disjoint Sets :heavy_check_mark:
+* Binary Tree
+* Binary Search Tree
+* AVL Trees
+* Red-Black Trees
+* Segment Tree 
+* Fenwick Tree (Binary Indexed Tree)
+* Trie
+* Treap
+* Heap
+* N-ary Tree
+* Suffix Tree
+* Sqrt Tree
+* Huffman Tree
+* B+, B- Tree
+* Merkle Tree
+* Splay Tree
+
+### Graph theory
 * Traversals
 	* Depth first search :heavy_check_mark:
 	* Breadth first search :heavy_check_mark:
@@ -72,23 +98,7 @@
 	* Diameter and centroid
 	* K'th shortest path
 	* Dynamic graphs (extra book-keeping)
-## Trees
-* Union-Find Disjoint Sets :heavy_check_mark:
-* Binary Tree
-* Binary Search Tree
-* AVL Trees
-* Red-Black Trees
-* Treap
-* Splay Tree
-* N-ary Tree
-* Trie
-* Suffix Tree
-* Huffman Tree
-* Heap
-* B+, B- Tree
-* Merkle Tree
-* Segment Tree 
-* Fenwick Tree (Binary Indexed Tree)
+
 ## Searching and Sorting
 * Binary Search :heavy_check_mark:
 * Ternary Search :heavy_check_mark:
