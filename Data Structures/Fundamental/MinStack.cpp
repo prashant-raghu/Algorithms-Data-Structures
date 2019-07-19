@@ -27,7 +27,7 @@ int main() {
 	cin.sync_with_stdio(0); cin.tie(0); //Comment while performing interactive IO
 	cin.exceptions(cin.failbit); // Logical error on i/o operation
     // idea of min stack is to store data in pairs where second element represents the min
-    // lement so far
+    // element so far
     vector<int> duplicate;
     stack<pair<int,int>> minstack;
     int n;
