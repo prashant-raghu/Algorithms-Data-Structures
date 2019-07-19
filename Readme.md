@@ -5,7 +5,7 @@
 ## Data Structures
 
 ### Fundamental
-* Minimum Stack 
+* Minimum Stack :heavy_check_mark:
 * Minimum Queue
 * Sparse Table
 
