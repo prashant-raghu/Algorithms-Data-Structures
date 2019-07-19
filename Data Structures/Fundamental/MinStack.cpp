@@ -42,7 +42,7 @@ int main() {
         cout<<top(minstack)<<" ";
         int removed = remove(minstack);
     }
-    // boilerplate for min stack end here, below is sample tests checker
+    // boilerplate for min stack ends here, below is sample tests checker
     cout<<endl;
     reverse(duplicate.begin(),duplicate.end());
     for(auto x:duplicate)cout<<x<<" ";
