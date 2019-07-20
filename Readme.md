@@ -27,7 +27,6 @@
 * B+, B- Tree
 * Merkle Tree
 * Splay Tree
-I like mathematics, algorithms and Linux. I program mainly in JS and C++. I like to create some useful stuff as well.
 ### Graph theory
 * Traversals
 	* Depth first search :heavy_check_mark:
