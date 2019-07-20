@@ -7,7 +7,7 @@
 ### Fundamental
 * Minimum Stack :heavy_check_mark:
 * Minimum Queue :heavy_check_mark:
-* Sparse Table
+* Sparse Table :heavy_check_mark:
 
 ### Trees
 * Union-Find Disjoint Sets :heavy_check_mark:
