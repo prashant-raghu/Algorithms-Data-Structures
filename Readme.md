@@ -13,7 +13,7 @@
 * Union-Find Disjoint Sets :heavy_check_mark:
 * Binary Tree :heavy_check_mark:
 * Binary Search Tree :heavy_check_mark:
-* AVL Trees
+* AVL Trees :heavy_check_mark:
 * Red-Black Trees
 * Segment Tree 
 * Fenwick Tree (Binary Indexed Tree)
