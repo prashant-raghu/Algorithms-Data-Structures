@@ -12,7 +12,7 @@
 ### Trees
 * Union-Find Disjoint Sets :heavy_check_mark:
 * Binary Tree :heavy_check_mark:
-* Binary Search Tree
+* Binary Search Tree :heavy_check_mark:
 * AVL Trees
 * Red-Black Trees
 * Segment Tree 
