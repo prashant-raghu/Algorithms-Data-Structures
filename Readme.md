@@ -17,7 +17,7 @@
 * Red-Black Trees
 * Segment Tree 
 * Fenwick Tree (Binary Indexed Tree)
-* Trie
+* Trie :heavy_check_mark:
 * Treap
 * Heap
 * N-ary Tree
